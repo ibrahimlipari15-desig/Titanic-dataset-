@@ -65,5 +65,6 @@ Titanic-Survival-Analysis/
 ## 👤 Contact
 
 **Pari Ibrahimli**
-* LinkedIn: linkedin.com/in/pəri-ibrahimli-b389ab293
+* LinkedIn:www.linkedin.com/in/
+pəri-ibrahimli-b389ab293
 * Email: ibrahimlipari15@gmail.com
